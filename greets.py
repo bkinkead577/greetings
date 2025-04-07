@@ -1,3 +1,4 @@
 greetings = ['hello',
              'hi',
-             'hey']
+             'hey',
+             'Good Morning']
